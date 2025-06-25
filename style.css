@@ -1,10 +1,13 @@
 body {
-    background-color: rgb(255, 251, 0);
-    color: rgb(218, 32, 79);
-    font-family: Roboto, cursive;
-    margin: 0px;
+    background-color: black;
+    color: white;
+    font-family: "Chakra Petch", sans-serif;
 }
 
-<reader> {
-    border-bottom: solid 2px rgb(42, 12, 228);
+h1 {
+    font-size: 40px;
+}
+
+p {
+    font-size: 20px;
 }
